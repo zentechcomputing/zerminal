@@ -170,14 +170,5 @@ public class WordCount {
             f = chooser.getSelectedFile();
         return f;
     }
-// Now print the Hello World command
 
-/* HelloWorld.java
- */
-
-public class HelloWorld
-{
-	public static void main(String[] args) {
-		System.out.println("Hello World!");
-	}
 }
