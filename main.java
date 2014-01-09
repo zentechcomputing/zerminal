@@ -169,6 +169,29 @@ public class WordCount {
         if (retval == JFileChooser.APPROVE_OPTION)
             f = chooser.getSelectedFile();
         return f;
+        
+        Return 8 . String ,, : 
+        
+        >>
+        sudo asdd
+    l1 ##
+    
+    public staic void .//// This will be the main sub for the main word count
+    
+    option ( @ Null@)   
+    
+    
+    H>KK 
+    public  class main
+    
+     public stitic void ?? $$
+     
+     String. )( ARGS ((
+         
+         System.Out.Println ( Word. Count of F :: )
+    
+    
+    
     }
 
 }
